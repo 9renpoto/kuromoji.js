@@ -25,23 +25,7 @@ You can tokenize sentences with only 5 lines of code.
 If you need working examples, you can see the files under the demo or example directory.
 
 
-### Node.js
 
-Install with npm package manager:
-
-    npm install kuromoji
-
-Load this library as follows:
-
-    var kuromoji = require("kuromoji");
-
-You can prepare tokenizer like this:
-
-    kuromoji.builder({ dicPath: "path/to/dictionary/dir/" }).build(function (err, tokenizer) {
-        // tokenizer is ready
-        var path = tokenizer.tokenize("すもももももももものうち");
-        console.log(path);
-    });
 
 
 
