@@ -1,28 +1,3 @@
-kuromoji.js
-===========
-
-
-
-
-Directory
----------
-
-Directory tree is as follows:
-
-    build/
-      kuromoji.js -- JavaScript file for browser (Browserified)
-    demo/         -- Demo
-    dict/         -- Dictionaries for tokenizer (gzipped)
-    example/      -- Examples to use in Node.js
-    src/          -- JavaScript source
-    test/         -- Unit test
-
-
-Usage
------
-
-You can tokenize sentences with only 5 lines of code.
-If you need working examples, you can see the files under the demo or example directory.
 
 
 
