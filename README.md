@@ -14,9 +14,6 @@ Install with Bower package manager:
 
 Or you can use the kuromoji.js file and dictionary files from the GitHub repository.
 
-In your HTML:
-
-    <script src="url/to/kuromoji.js"></script>
 
 In your JavaScript:
 
